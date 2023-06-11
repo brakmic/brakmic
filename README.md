@@ -15,7 +15,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 | **Deployment & Management**  | Docker, Kubernetes, Helm, Terraform, KNative                         |
 | **Cloud Platforms**          | Azure, Google Cloud Platform (GCP), AWS                               |
 | **Databases**                | MongoDB, MySQL, SQLite, MS SQL, PostgreSQL                           |
-| **API Development**          | GraphQL, OpenAPI, Swagger                                            |
+| **API Development**          | GraphQL, gRPC, OpenAPI, Swagger                                            |
 | **Security**                 | Secure Coding Practices, Penetration Testing, OWASP                  |
 | **Identity & Access Management** | Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, OAuth2   |
 | **Legacy Technologies**      | Visual Basic 6, Visual C++ 6, MFC, COM                               |
