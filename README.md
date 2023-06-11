@@ -2,8 +2,6 @@
 
 Greetings from the realm of software engineering! I'm Harris, a dedicated professional with a passion for crafting elegant software solutions. I've had the privilege of working as an in-house engineer at various companies before embarking on my journey as the owner of a small software development firm. Throughout my career, I've accumulated a wealth of experiences that have enriched my skills and shaped my approach to delivering high-quality software solutions.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brakmic.brakmic)
-
 ## 👨‍💻 Technology Stack
 
 | Category                      | Skills                                                               |
@@ -33,6 +31,8 @@ Along the way, I've kept pace with the evolving cloud landscape, working with va
 In the realm of security, I prioritize secure coding practices, penetration testing, and adhering to OWASP guidelines. I have implemented robust authentication and access control mechanisms using tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2. These technologies provide the foundation for secure and reliable user authentication and authorization.
 
 ![brakmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=brakmic&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical)
 
 ## 💼 Experiences & Skills
 
@@ -70,4 +70,4 @@ I believe in sharing knowledge and experiences, and for this, I maintain a [blog
 - 📘 Learn about my [developer journey](https://brakmic.dev)
 - 🌐 Visit my [personal website](https://brakmic.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brakmic.brakmic)
