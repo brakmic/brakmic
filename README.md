@@ -22,6 +22,14 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 ---
 
+## 🛠️ Navigating the .NET Landscape
+
+Since 2004, .NET and C# have been an integral part of my developer journey. Initially, I leveraged Windows Communication Foundation (WCF) and Windows Presentation Foundation (WPF), along with Silverlight, to build engaging service-oriented applications. 
+
+Data access became simplified with Entity Framework, while Language Integrated Query (LINQ) added a new level of efficiency to my process. As the ecosystem evolved, I transitioned from WCF to ASP.NET and MVC, embracing their clear structure and modern approach. 
+
+This ongoing journey with .NET has fostered in me an ability to adapt to technological shifts, and consistently refine my knowledge and skills.
+
 ## 🌐 Web and Mobile Development Journey
 
 Web and mobile development have been at the heart of my technical journey. The world of Angular, NestJS, and .NET has been my playground where I've learned to create highly efficient and scalable web and mobile applications. This not only means writing great code but also comprehending the complexities of user interface design, API integration, and database management.
