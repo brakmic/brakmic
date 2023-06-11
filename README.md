@@ -62,7 +62,6 @@ I believe in sharing knowledge and experiences, and for this, I maintain a [blog
 - [Intro to Assembly with FASM](https://blog.brakmic.com/intro-to-x86-assembly-with-fasm/)
 - [Reactive App with Angular and ngrx](https://blog.brakmic.com/reactive-apps-with-angular-ngrx/)
 - [High-Performance Computing with HPX](https://blog.brakmic.com/high-performance-computing-with-hpx/)
-- [WebAssembly Tutorials](https://github.com/brakmic/bazaar/tree/master/webassembly)
 
 ## 🔗 Quick Links
 
