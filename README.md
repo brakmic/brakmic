@@ -32,7 +32,7 @@ I believe secure software is the foundation of any technology we build. Therefor
 
 ---
 
-| ![brakmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=brakmic&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical) |
+| ![brakmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=brakmic&show_icons=true&theme=radical&hide_rank=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical&hide=html,css,scss,objective-c,freemarker&hide_title=true) |
 |:---:|:---:|
 | GitHub Statistics | Top Languages |
 
