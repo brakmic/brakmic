@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Greetings from the realm of software engineering! I'm Harris, a dedicated professional with a passion for crafting elegant software solutions. I've had the privilege of working as an in-house engineer at various companies before embarking on my journey as the owner of a small software development firm. Throughout my career, I've accumulated a wealth of experiences that have enriched my skills and shaped my approach to delivering high-quality software solutions.
+Greetings from the realm of software engineering! I'm Harris, a dedicated professional with a passion for crafting elegant software solutions. I've had the privilege of working as an in-house engineer at various companies before embarking on my journey as the owner of a small software development firm. My career has been a rich tapestry of diverse experiences, continuously honing my skills, and shaping my approach to delivering high-quality software solutions.
 
 ---
 
@@ -22,17 +22,13 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 ---
 
-My journey in the tech world has been a fascinating one. I still remember the days when fat clients and desktop applications ruled the computing world, shaping the very landscape of offices. Back then, I was immersed in the world of legacy technologies, working with Visual Basic 6, Visual C++ 6, MFC (Microsoft Foundation Classes), and COM (Component Object Model). It was an era of building robust desktop applications, where the user experience was largely dependent on the capabilities of the client-side software.
+Web and mobile development have been at the heart of my technical journey. The world of Angular, NestJS, and .NET has been my playground where I've learned to create highly efficient and scalable web and mobile applications. This not only means writing great code but also comprehending the complexities of user interface design, API integration, and database management.
 
-As the industry evolved, a seismic shift occurred with the rise of web technologies and the emergence of JavaScript as a powerful force in application development. Witnessing this transformation, I embraced the potential of web apps and the new possibilities they offered. I saw the web as a platform that could deliver applications to a wider audience, accessible from any device with an internet connection.
+In the field of JavaScript, I have enjoyed exploring the vast landscape of Node.js and its C++ API. JavaScript has indeed transformed from being a mere scripting language to a platform for building full-fledged server-side applications. It is intriguing to observe how JavaScript has unlocked avenues for innovation in the software realm.
 
-Since then, I have dedicated myself to mastering web and mobile development, exploring frameworks such as Angular, NestJS, and .NET, along with their respective ecosystems. I have migrated numerous legacy software stacks from technologies like MFC, COM, and Visual Basic to more modern .NET and JVM stacks. This process involved re-architecting and refactoring applications, ensuring their scalability, maintainability, and performance in the modern digital landscape.
+I have also gained valuable experience in managing application deployment and infrastructures. My proficiency in Docker, Kubernetes, Helm, Terraform, and KNative is the result of countless hours spent on refining cloud infrastructures to ensure seamless application deployments. 
 
-My relationship with JavaScript started around 2011, and since then, I've ventured deep into its ecosystem, gaining extensive knowledge of Node.js and its C++ API. This has been instrumental in creating high-performance server-side applications and harnessing the power of JavaScript on the backend.
-
-Along the way, I've kept pace with the evolving cloud landscape, working with various cloud platforms such as Azure, Google Cloud Platform (GCP), and Amazon Web Services (AWS). These platforms have enabled me to build highly scalable systems that leverage the power of the cloud, ensuring seamless performance and availability.
-
-In the realm of security, I prioritize secure coding practices, penetration testing, and adhering to OWASP guidelines. I have implemented robust authentication and access control mechanisms using tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2. These technologies provide the foundation for secure and reliable user authentication and authorization.
+I believe secure software is the foundation of any technology we build. Therefore, I've always prioritized mastering secure coding practices, penetration testing, and adhering to OWASP guidelines. Implementing robust authentication and access control mechanisms is something I've extensively worked on, exploring tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2.
 
 ---
 
@@ -44,29 +40,21 @@ In the realm of security, I prioritize secure coding practices, penetration test
 
 ## 💼 Experiences & Skills
 
-The diverse experiences I've had over the years, both as an employee and as an entrepreneur, have broadened my perspective and enriched my skills. This journey has instilled in me a sense of adaptability and honed my technical abilities.
+Running my own software development firm has provided an invaluable opportunity to build leadership skills, manage diverse projects, and gain an in-depth understanding of business processes. In the pursuit of delivering top-quality software, I've adopted best practices like Clean Architecture, Ports & Adapters Architecture, and Domain-Driven Design. I've had the chance to work with UI control suites like DevExpress, DevExtreme, KendoUI, and Telerik to deliver high-performance web applications.
 
-I've been running my own software development firm, focusing on creating digital products that truly resonate with customers. This venture not only allows me to utilize my technical skills to the fullest but also provides an opportunity to build leadership and business acumen.
-
-I've realized that a solid architectural foundation is paramount for efficient software development. Hence, I've adopted best practices like Clean Architecture, Ports & Adapters Architecture, and Domain-Driven Design. These paradigms contribute to the maintainability, testability, and long-term resilience of software solutions.
-
-I've also worked extensively with DevExpress and its JavaScript variant, DevExtreme, to build comprehensive, high-performance web applications. Similarly, KendoUI and Telerik, renowned for their rich set of UI controls, have been a part of my toolbox for front-end development.
-
-With the increasing importance of DevOps in software development cycles, I've developed tools to facilitate daily DevOps tasks and offer a [miniDevOps](https://github.com/brakmic/miniDevOps) Docker image as part of my contributions to the community.
-
-Lastly, a highlight from my early career includes [tutorials](https://github.com/brakmic/bazaar/tree/master/webassembly) on WebAssembly, which I wrote in 2015 when it was still relatively unknown. These tutorials reflect my curiosity and dedication to learning emerging technologies.
+My familiarity with DevOps has not only helped streamline software development cycles but also fostered a culture of collaboration between development and operations teams. I've contributed to this field by developing tools that facilitate daily DevOps tasks and sharing a [miniDevOps](https://github.com/brakmic/miniDevOps) Docker image with the community.
 
 ---
 
 ## 🎯 Future Goals
 
-My goal for the future is to continue enhancing my understanding of scalable architectures. The prospect of building resilient, efficient, and maintainable systems capable of adapting to evolving business needs motivates me to continually learn and grow.
+As I look to the future, my goal is to deepen my understanding of scalable architectures and continue building resilient, efficient, and maintainable systems. It's the joy of learning new things and the thrill of overcoming challenges that drive me forward in this ever-evolving landscape of software engineering.
 
 ---
 
 ## 📖 Featured Articles
 
-I believe in sharing knowledge and experiences, and for this, I maintain a [blog](https://blog.brakmic.com). I explore new concepts, delve into my professional journey, and share insights from my experiences. Here are a few articles that might pique your interest:
+I believe in the power of shared knowledge and experiences. My [blog](https://blog.brakmic.com) serves as a platform where I delve into new concepts, share my professional journey, and explore insights gained from my experiences:
 
 - [Keycloak with PostgreSQL-HA](https://blog.brakmic.com/keycloak-with-postgresql-ha-on-kubernetes/)
 - [Keycloak Extensions](https://blog.brakmic.com/keycloak-extensions/)
@@ -87,3 +75,4 @@ I believe in sharing knowledge and experiences, and for this, I maintain a [blog
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brakmic.brakmic)
+
