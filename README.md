@@ -8,25 +8,41 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 | Category                      | Skills                                                               |
 |-------------------------------|----------------------------------------------------------------------|
-| **Programming Languages**    | TypeScript, C#, C++, Java, Swift                                     |
-| **Web & Mobile Development** | Angular, NestJS, .NET, .NET MAUI, Java (Android), Swift (iOS)          |
-| **Application Migration**    | Silverlight (WPF) to Angular                                          |
-| **JavaScript Ecosystem**     | JavaScript, Node.js, Node.js C++ API                                  |
-| **Deployment & Management**  | Docker, Kubernetes, Helm, Terraform, KNative                         |
-| **Cloud Platforms**          | Azure, Google Cloud Platform (GCP), AWS                               |
-| **Databases**                | MongoDB, MySQL, SQLite, MS SQL, PostgreSQL                           |
-| **API Development**          | GraphQL, gRPC, OpenAPI, Swagger                                            |
-| **Security**                 | Secure Coding Practices, Penetration Testing, OWASP                  |
+| **Programming Languages**     | TypeScript, C#, C++, Java, Swift                                     |
+| **Web & Mobile Development**  | Angular, NestJS, .NET, .NET MAUI, Java (Android), Swift (iOS)          |
+| **Application Migration**     | Silverlight (WPF) to Angular                                          |
+| **JavaScript Ecosystem**      | JavaScript, Node.js, Node.js C++ API                                  |
+| **Deployment & Management**   | Docker, Kubernetes, Helm, Terraform, KNative                         |
+| **Cloud Platforms**           | Azure, Google Cloud Platform (GCP), AWS                               |
+| **Databases**                 | MongoDB, MySQL, SQLite, MS SQL, PostgreSQL                           |
+| **API Development**           | GraphQL, gRPC, OpenAPI, Swagger                                            |
+| **Security**                  | Secure Coding Practices, Penetration Testing, OWASP                  |
 | **Identity & Access Management** | Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, OAuth2   |
-| **Legacy Technologies**      | Visual Basic 6, Visual C++ 6, MFC, COM                               |
+| **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, COM                               |
 
 ---
 
+## 🌐 Web and Mobile Development Journey
+
 Web and mobile development have been at the heart of my technical journey. The world of Angular, NestJS, and .NET has been my playground where I've learned to create highly efficient and scalable web and mobile applications. This not only means writing great code but also comprehending the complexities of user interface design, API integration, and database management.
 
-In the field of JavaScript, I have enjoyed exploring the vast landscape of Node.js and its C++ API. JavaScript has indeed transformed from being a mere scripting language to a platform for building full-fledged server-side applications. It is intriguing to observe how JavaScript has unlocked avenues for innovation in the software realm.
+## 🗄️ Crafting APIs
 
-I have also gained valuable experience in managing application deployment and infrastructures. My proficiency in Docker, Kubernetes, Helm, Terraform, and KNative is the result of countless hours spent on refining cloud infrastructures to ensure seamless application deployments. 
+An integral part of my journey has been the development of robust and user-friendly APIs. My experiences with GraphQL, gRPC, and OpenAPI have collectively shaped my ability to build versatile and performant interfaces. These technologies have enabled me to craft APIs that provide a seamless communication layer between different software components, with an emphasis on transparency, efficient performance, and comprehensive documentation. While each project has its unique challenges and learning curves, the journey through these technologies has been a gratifying part of my career growth.
+
+## 🚀 Journey from JavaScript to TypeScript
+
+In the landscape of web development, I've had a rich journey that began with JavaScript. I've greatly enjoyed exploring the capabilities of Node.js and its C++ API. Watching JavaScript evolve from a mere scripting language into a platform capable of building robust server-side applications has been truly intriguing.
+
+As my projects increased in complexity and scale, however, I recognized the limitations JavaScript posed for maintaining large codebases. This led to my switch to TypeScript, a decision not influenced solely by TypeScript's strong typing and enhanced scalability, but also by a concurrent shift in my frontend development preferences.
+
+In the past, I've worked extensively with BackboneJS, Angular 1.x (now known as AngularJS), and KnockoutJS. Each framework offered unique insights, shaping my understanding of frontend development. But with time, my preference solidified around Angular for its robustness and its harmonious synergy with TypeScript. This blend of TypeScript and Angular has equipped me to create more scalable, maintainable, and high-performing web applications.
+
+## ☁️ Managing Deployment and Infrastructure
+
+I have also gained valuable experience in managing application deployment and infrastructures. My proficiency in Docker, Kubernetes, Helm, Terraform, and KNative is the result of countless hours spent on refining cloud infrastructures to ensure seamless application deployments.
+
+## 🛡️ Prioritizing Security
 
 I believe secure software is the foundation of any technology we build. Therefore, I've always prioritized mastering secure coding practices, penetration testing, and adhering to OWASP guidelines. Implementing robust authentication and access control mechanisms is something I've extensively worked on, exploring tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2.
 
