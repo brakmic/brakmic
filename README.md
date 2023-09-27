@@ -8,7 +8,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 | Category                      | Skills                                                               |
 |-------------------------------|----------------------------------------------------------------------|
-| **Programming Languages**     | TypeScript, C#, C++, Java, Swift                                     |
+| **Programming Languages**     | TypeScript, C#, C++, Java, Python, Swift                             |
 | **Web & Mobile Development**  | Angular, NestJS, .NET, .NET MAUI, Java (Android), Swift (iOS)          |
 | **Application Migration**     | Silverlight (WPF) to Angular                                          |
 | **JavaScript Ecosystem**      | JavaScript, Node.js, Node.js C++ API                                  |
