@@ -8,7 +8,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 | Category                      | Skills                                                               |
 |-------------------------------|----------------------------------------------------------------------|
-| **Programming Languages**     | TypeScript, C#, C++, Java, Python, Swift                             |
+| **Programming Languages**     | TypeScript, C#, C++, Java, Swift                                     |
 | **Web & Mobile Development**  | Angular, NestJS, .NET, .NET MAUI, Java (Android), Swift (iOS)          |
 | **Application Migration**     | Silverlight (WPF) to Angular                                          |
 | **JavaScript Ecosystem**      | JavaScript, Node.js, Node.js C++ API                                  |
@@ -19,6 +19,22 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 | **Security**                  | Secure Coding Practices, Penetration Testing, OWASP                  |
 | **Identity & Access Management** | Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, OAuth2   |
 | **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, COM                               |
+
+---
+
+---
+
+| ![brakmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=brakmic&show_icons=true&theme=radical&hide_rank=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical&hide=html,css,scss,objective-c,freemarker&hide_title=true&langs_count=6) |
+|:---:|:---:|
+| GitHub Statistics | Top Languages |
+
+---
+
+## 💼 Experiences & Skills
+
+Running my own software development firm has provided an invaluable opportunity to build leadership skills, manage diverse projects, and gain an in-depth understanding of business processes. In the pursuit of delivering top-quality software, I've adopted best practices like Clean Architecture, Ports & Adapters Architecture, and Domain-Driven Design. I've had the chance to work with UI control suites like DevExpress, DevExtreme, KendoUI, and Telerik to deliver high-performance web applications.
+
+My familiarity with DevOps has not only helped streamline software development cycles but also fostered a culture of collaboration between development and operations teams. I've contributed to this field by developing tools that facilitate daily DevOps tasks and sharing a [miniDevOps](https://github.com/brakmic/miniDevOps) Docker image with the community.
 
 ---
 
@@ -54,22 +70,11 @@ I have also gained valuable experience in managing application deployment and in
 
 I believe secure software is the foundation of any technology we build. Therefore, I've always prioritized mastering secure coding practices, penetration testing, and adhering to OWASP guidelines. Implementing robust authentication and access control mechanisms is something I've extensively worked on, exploring tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2.
 
----
+## 🤖 Delving into Artificial Intelligence and Machine Learning
 
-| ![brakmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=brakmic&show_icons=true&theme=radical&hide_rank=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical&hide=html,css,scss,objective-c,freemarker&hide_title=true&langs_count=6) |
-|:---:|:---:|
-| GitHub Statistics | Top Languages |
+Having [always](https://blog.brakmic.com/data-science-for-losers-part-4-machine-learning/) [been](https://blog.brakmic.com/data-science-for-losers-part-6-azure-ml/) [intrigued](https://blog.brakmic.com/data-science-for-losers-part-7-using-azure-ml/) by the potential of artificial intelligence (AI) and machine learning (ML), I've taken steps to integrate these cutting-edge technologies into my projects. My explorations in this domain have included working with OpenAI's GPT models, Hugging Face Transformers, and other notable open source Language Models like BERT, RoBERTa, and T5 to enhance software solutions. These experiences have provided me a solid grounding in the current state of NLP and ML frameworks, enabling me to leverage their capabilities in real-world projects. One of the notable projects in this regard is [SkPlayground](https://github.com/brakmic/SkPlayground), where I've utilized **Semantic Kernel** technology to craft a tool that can assist in DevOps and Engineering tasks. The insights gained from these endeavors continue to shape my approach towards developing AI and ML-driven solutions, pushing the boundaries of what's possible in software engineering.
 
 ---
-
-## 💼 Experiences & Skills
-
-Running my own software development firm has provided an invaluable opportunity to build leadership skills, manage diverse projects, and gain an in-depth understanding of business processes. In the pursuit of delivering top-quality software, I've adopted best practices like Clean Architecture, Ports & Adapters Architecture, and Domain-Driven Design. I've had the chance to work with UI control suites like DevExpress, DevExtreme, KendoUI, and Telerik to deliver high-performance web applications.
-
-My familiarity with DevOps has not only helped streamline software development cycles but also fostered a culture of collaboration between development and operations teams. I've contributed to this field by developing tools that facilitate daily DevOps tasks and sharing a [miniDevOps](https://github.com/brakmic/miniDevOps) Docker image with the community.
-
----
-
 ## 🎯 Future Goals
 
 As I look to the future, my goal is to deepen my understanding of scalable architectures and continue building resilient, efficient, and maintainable systems. It's the joy of learning new things and the thrill of overcoming challenges that drive me forward in this ever-evolving landscape of software engineering.
