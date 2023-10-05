@@ -22,8 +22,6 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 ---
 
----
-
 | ![brakmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=brakmic&show_icons=true&theme=radical&hide_rank=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical&hide=html,css,scss,objective-c,freemarker&hide_title=true&langs_count=6) |
 |:---:|:---:|
 | GitHub Statistics | Top Languages |
