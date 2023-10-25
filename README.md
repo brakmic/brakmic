@@ -8,18 +8,20 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 | Category                      | Skills                                                               |
 |-------------------------------|----------------------------------------------------------------------|
-| **Programming Languages**     | TypeScript, C#, C++, Java, Swift                                     |
-| **Web & Mobile Development**  | Angular, NestJS, .NET, .NET MAUI, Java (Android), Swift (iOS)          |
+| **Programming Languages**     | TypeScript, [C#](https://github.com/brakmic/OpenCV), [C++](https://github.com/brakmic/HDA_with_Cpp), [Python](https://github.com/brakmic/Data-Science-for-Losers), [Java](https://github.com/brakmic/Keycloak_Extensions), Swift                                     |
+| **Web & Mobile Development**  | [Angular](https://github.com/brakmic/Angular-Articles), [NestJS](https://github.com/brakmic/Slot-Machine-Game), .NET, .NET MAUI, Java (Android), Swift (iOS)          |
 | **Application Migration**     | Silverlight (WPF) to Angular                                          |
-| **JavaScript Ecosystem**      | JavaScript, Node.js, Node.js C++ API                                  |
-| **Deployment & Management**   | Docker, Kubernetes, Helm, Terraform, KNative                         |
+| **NodeJS Ecosystem**      | Node.js C++ API, [NPM Packages](https://www.npmjs.com/settings/brakmic/packages)                                  |
+| **DevOps**   | Docker, [Kubernetes](https://github.com/brakmic/miniDevOps), Helm, Terraform, [KNative](https://github.com/brakmic/angular-on-knative)                         |
 | **Cloud Platforms**           | Azure, Google Cloud Platform (GCP), AWS                               |
-| **Databases**                 | MongoDB, MySQL, SQLite, MS SQL, PostgreSQL                           |
+| **SQL Databases**                 | MySQL, SQLite, MS SQL, [PostgreSQL](https://github.com/brakmic/Keycloak_with_PostgreSQL-HA_on_Kubernetes)                           |
+| **NoSQL Databases**                 | MongoDB, Cosmos DB                          |
+| **Vector Databases**                 | [Weaviate](https://github.com/brakmic/Weaviate_with_OpenAI), [Qdrant](https://blog.brakmic.com/intro-to-semantic-kernel-part-four/)                          |
 | **API Development**           | GraphQL, gRPC, OpenAPI, Swagger                                            |
-| **AI Development**  | Semantic Kernel, ChatGPT Plugins, Azure ML, PyTorch, fast.ai         |
+| **AI Development**  | [Semantic Kernel](https://github.com/brakmic/SKPlayground), ChatGPT Plugins, Azure ML, PyTorch, fast.ai         |
 | **Security**                  | Secure Coding Practices, Penetration Testing, OWASP                  |
-| **Identity & Access Management** | Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, OAuth2   |
-| **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, COM                               |
+| **Identity & Access Management** | [Keycloak](https://github.com/brakmic/Keycloak_on_Kubernetes), LDAP, Active Directory, Firebase, [OpenID Connect](https://bitbucket.org/brakmic/id4.experiment/src/master/), [OAuth2](https://bitbucket.org/brakmic/id4.experiment/src/master/)   |
+| **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, [COM](https://github.com/brakmic/COM_Tutorials)                               |
 
 ---
 
