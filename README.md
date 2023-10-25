@@ -16,6 +16,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 | **Cloud Platforms**           | Azure, Google Cloud Platform (GCP), AWS                               |
 | **Databases**                 | MongoDB, MySQL, SQLite, MS SQL, PostgreSQL                           |
 | **API Development**           | GraphQL, gRPC, OpenAPI, Swagger                                            |
+| **AI Development**  | Semantic Kernel, ChatGPT Plugins, Azure ML, PyTorch, fast.ai         |
 | **Security**                  | Secure Coding Practices, Penetration Testing, OWASP                  |
 | **Identity & Access Management** | Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, OAuth2   |
 | **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, COM                               |
@@ -68,7 +69,7 @@ I have also gained valuable experience in managing application deployment and in
 
 I believe secure software is the foundation of any technology we build. Therefore, I've always prioritized mastering secure coding practices, penetration testing, and adhering to OWASP guidelines. Implementing robust authentication and access control mechanisms is something I've extensively worked on, exploring tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2.
 
-## 🤖 Delving into Artificial Intelligence and Machine Learning
+## 🤖 Artificial Intelligence and Machine Learning
 
 Having [always](https://blog.brakmic.com/data-science-for-losers-part-4-machine-learning/) [been](https://blog.brakmic.com/data-science-for-losers-part-6-azure-ml/) [intrigued](https://blog.brakmic.com/data-science-for-losers-part-7-using-azure-ml/) by the potential of artificial intelligence (AI) and machine learning (ML), I've taken steps to integrate these cutting-edge technologies into my projects. My [explorations in this domain](https://github.com/brakmic/SKPlayground) have included working with OpenAI's GPT models, Hugging Face Transformers, and other open source Language Models. These experiences have provided me a solid grounding in the current state of NLP and ML frameworks, enabling me to leverage their capabilities in real-world projects.
 
@@ -83,6 +84,7 @@ As I look to the future, my goal is to deepen my understanding of scalable archi
 
 I believe in the power of shared knowledge and experiences. My [blog](https://blog.brakmic.com) serves as a platform where I delve into new concepts, share my professional journey, and explore insights gained from my experiences:
 
+- [Intro to Semantic Kernel](https://blog.brakmic.com/intro-to-semantic-kernel-part-one/)
 - [Keycloak with PostgreSQL-HA](https://blog.brakmic.com/keycloak-with-postgresql-ha-on-kubernetes/)
 - [Keycloak Extensions](https://blog.brakmic.com/keycloak-extensions/)
 - [Writing HDAs with htmx and C++](https://blog.brakmic.com/writing-hdas-with-htmx-and-c/)
