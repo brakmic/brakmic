@@ -10,7 +10,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 |-------------------------------|----------------------------------------------------------------------|
 | **Programming Languages**     | TypeScript, [C#](https://github.com/brakmic/OpenCV), [C++](https://github.com/brakmic/HDA_with_Cpp), [Python](https://github.com/brakmic/Data-Science-for-Losers), [Java](https://github.com/brakmic/Keycloak_Extensions)                                    |
 | **Web Development**  | [Angular](https://github.com/brakmic/Angular-Articles), [NestJS](https://github.com/brakmic/Slot-Machine-Game) |
-| **NodeJS Ecosystem**      | Node.js C++ API, [NPM Packages](https://www.npmjs.com/settings/brakmic/packages)                                  |
+| **NodeJS Ecosystem**      | Node.js C++ API, [NPM Packages](https://www.npmjs.com/~brakmic?activeTab=packages)                                  |
 | **DevOps**   | Docker, [Kubernetes](https://github.com/brakmic/miniDevOps), Helm, Terraform, [KNative](https://github.com/brakmic/angular-on-knative)                         |
 | **Cloud Platforms**           | Azure, GCP, AWS                               |
 | **SQL Databases**                 | MySQL, SQLite, MS SQL, [PostgreSQL](https://github.com/brakmic/Keycloak_with_PostgreSQL-HA_on_Kubernetes)                           |
