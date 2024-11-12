@@ -20,6 +20,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 | **AI Development**  | [Semantic Kernel](https://github.com/brakmic/SKPlayground), ChatGPT Plugins, Azure ML, PyTorch, fast.ai         |
 | **Identity & Access Management** | [Keycloak](https://github.com/brakmic/Keycloak_on_Kubernetes), LDAP, Active Directory, Firebase, [OpenID Connect](https://bitbucket.org/brakmic/id4.experiment/src/master/), [OAuth2](https://bitbucket.org/brakmic/id4.experiment/src/master/)   |
 | **Application Migration**     | Silverlight (WPF) to Angular                                          |
+| **Blockchains**               | [BlockchainStore](https://github.com/brakmic/BlockchainStore), [CoinPlatform2](https://github.com/brakmic/Coin-Platform-2), [Perl6 BTC-Client](https://github.com/brakmic/Perl6-Bitcoin-Client) |
 | **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, [COM](https://github.com/brakmic/COM_Tutorials)                               |
 
 ---
