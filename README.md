@@ -18,7 +18,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 | **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, [COM](https://github.com/brakmic/COM_Tutorials)                               |
 | **NoSQL Databases**           | MongoDB, Cosmos DB                                                    |
 | **NodeJS Ecosystem**          | [Node.js C++ API](https://github.com/brakmic/hpx-nodejs-addon), [NPM Packages](https://www.npmjs.com/~brakmic?activeTab=packages)                                  |
-| **Programming Languages**     | TypeScript, [C#](https://github.com/brakmic/OpenCV), [C++](https://github.com/brakmic/HDA_with_Cpp), [Python](https://github.com/brakmic/Data-Science-for-Losers), [Java](https://github.com/brakmic/Keycloak_Extensions), [Bosque](https://bosque-lang.org)                                    |
+| **Programming Languages**     | TypeScript, [C#](https://github.com/brakmic/OpenCV), [C++](https://github.com/brakmic/HDA_with_Cpp), [Python](https://github.com/brakmic/Data-Science-for-Losers), [Java](https://github.com/brakmic/WildFly_Keycloak), [Bosque](https://bosque-lang.org)                                    |
 | **SQL Databases**             | MySQL, SQLite, MS SQL, [PostgreSQL](https://github.com/brakmic/Keycloak_with_PostgreSQL-HA_on_Kubernetes)                           |
 | **Vector Databases**          | [Weaviate](https://github.com/brakmic/Weaviate_with_OpenAI), [Qdrant](https://blog.brakmic.com/intro-to-semantic-kernel-part-four/)                          |
 | **Web Development**           | [Angular](https://github.com/brakmic/Angular-Articles), [NestJS](https://github.com/brakmic/Slot-Machine-Game) |
