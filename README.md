@@ -105,5 +105,3 @@ I believe in the power of shared knowledge and experiences. My [blog](https://bl
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brakmic.brakmic)
-
