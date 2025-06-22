@@ -8,7 +8,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 | Category                      | Skills                                                               |
 |-------------------------------|----------------------------------------------------------------------|
-| **AI Development**            | [Semantic Kernel](https://github.com/brakmic/SKPlayground), ChatGPT Plugins        |
+| **AI Development**            | [Semantic Kernel](https://github.com/brakmic/SKPlayground), [LangChain](https://github.com/brakmic/langchain-experiments), ChatGPT Plugins        |
 | **APIs**                      | GraphQL, gRPC, OpenAPI, Swagger                                       |
 | **Application Migration**     | Silverlight (WPF) to Angular                                          |
 | **Blockchains**               | [BlockchainStore](https://github.com/brakmic/BlockchainStore), [CoinPlatform2](https://github.com/brakmic/Coin-Platform-2), [Perl6 BTC-Client](https://github.com/brakmic/Perl6-Bitcoin-Client) |
