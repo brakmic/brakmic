@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Greetings from the realm of software engineering! I'm Harris, a dedicated professional with a passion for crafting elegant software solutions. I've had the privilege of working as an in-house engineer at various companies before embarking on my journey as the owner of a small software development firm. My career has been a rich tapestry of diverse experiences, continuously honing my skills, and shaping my approach to delivering high-quality software solutions.
+Hi, I'm Harris. I'm a software engineer who enjoys building useful and reliable software. I started out as an in-house engineer at different companies before moving on to run my own small software development business. Over the years, I’ve worked on a wide range of projects, always trying to improve how I approach problems and deliver solid results.
 
 ---
 
@@ -13,7 +13,7 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 | **Application Migration**     | Silverlight (WPF) to Angular                                          |
 | **Blockchains**               | [BlockchainStore](https://github.com/brakmic/BlockchainStore), [CoinPlatform2](https://github.com/brakmic/Coin-Platform-2), [Perl6 BTC-Client](https://github.com/brakmic/Perl6-Bitcoin-Client) |
 | **Cloud Platforms**           | Azure, GCP, AWS                                                       |
-| **DevOps**                    | Docker, [Kubernetes](https://github.com/brakmic/miniDevOps), Helm, Terraform, [KNative](https://github.com/brakmic/angular-on-knative)                         |
+| **DevOps Tools**              | Docker, [Kubernetes](https://github.com/brakmic/miniDevOps), Helm, Terraform, [KNative](https://github.com/brakmic/angular-on-knative)                         |
 | **Identity & Access Management** | [Keycloak](https://github.com/brakmic/Keycloak_on_Kubernetes), [ID4](https://github.com/brakmic/id4.experiment), LDAP, Active Directory, [OpenID Connect](https://github.com/brakmic/passport-keycloak-oauth2-oidc-portable), [OAuth2](https://bitbucket.org/brakmic/id4.experiment/src/master/)   |
 | **Legacy Technologies**       | Visual Basic 6, Visual C++ 6, MFC, [COM](https://github.com/brakmic/COM_Tutorials)                               |
 | **NoSQL Databases**           | MongoDB, Cosmos DB                                                    |
@@ -33,58 +33,57 @@ Greetings from the realm of software engineering! I'm Harris, a dedicated profes
 
 ## 💼 Experiences & Skills
 
-Running my own software development firm has provided an invaluable opportunity to build leadership skills, manage diverse projects, and gain an in-depth understanding of business processes. In the pursuit of delivering top-quality software, I've adopted best practices like Clean Architecture, Ports & Adapters Architecture, and Domain-Driven Design. I've had the chance to work with UI control suites like DevExpress, DevExtreme, KendoUI, and Telerik to deliver high-performance web applications.
+As a software engineer, I’ve spent years designing and building applications across different platforms and industries. Running my own company gave me the chance to lead projects, work with clients directly, and build software that solves real problems. I rely on approaches like Clean Architecture, Ports & Adapters, and Domain-Driven Design to make sure my systems stay maintainable and scalable.  
 
-My familiarity with DevOps has not only helped streamline software development cycles but also fostered a culture of collaboration between development and operations teams. I've contributed to this field by developing tools that facilitate daily DevOps tasks and sharing a [miniDevOps](https://github.com/brakmic/miniDevOps) Docker image with the community.
+Alongside this, I’ve worked with UI frameworks like DevExpress, DevExtreme, KendoUI, and Telerik to deliver fast and responsive applications.  
+
+While my main focus is software engineering, I’ve also built and shared tools for DevOps tasks, like the [miniDevOps](https://github.com/brakmic/miniDevOps) Docker image. These contributions are meant to help teams simplify their workflows, but DevOps is a supporting skill for me, not my primary background.
 
 ---
 
 ## 🛠️ Navigating the .NET Landscape
 
-Since 2004, .NET and C# have been an integral part of my developer journey. Initially, I leveraged Windows Communication Foundation (WCF) and Windows Presentation Foundation (WPF), along with Silverlight, to build engaging service-oriented applications. 
+I’ve been working with .NET and C# since 2004. In the beginning, I focused on WCF, WPF, and Silverlight to build service-oriented apps. Entity Framework and LINQ made data handling easier, and later I moved from WCF to ASP.NET and MVC for their cleaner and more modern approach.  
 
-Data access became simplified with Entity Framework, while Language Integrated Query (LINQ) added a new level of efficiency to my process. As the ecosystem evolved, I transitioned from WCF to ASP.NET and MVC, embracing their clear structure and modern approach. 
-
-This ongoing journey with .NET has fostered in me an ability to adapt to technological shifts, and consistently refine my knowledge and skills.
+Over the years, I’ve learned to adapt to the changes in the .NET ecosystem and keep improving my skills along the way.
 
 ## 🌐 Web and Mobile Development Journey
 
-Web and mobile development have been at the heart of my technical journey. The world of Angular, NestJS, and .NET has been my playground where I've learned to create highly efficient and scalable web and mobile applications. This not only means writing great code but also comprehending the complexities of user interface design, API integration, and database management.
+Web and mobile development have been a big part of my work. I’ve built scalable applications using Angular, NestJS, and .NET, combining good code with UI design, API integration, and database work. This mix has helped me deliver full-stack solutions that are both reliable and user-friendly.
 
 ## 🗄️ Crafting APIs
 
-An integral part of my journey has been the development of robust and user-friendly APIs. My experiences with GraphQL, gRPC, and OpenAPI have collectively shaped my ability to build versatile and performant interfaces. These technologies have enabled me to craft APIs that provide a seamless communication layer between different software components, with an emphasis on transparency, efficient performance, and comprehensive documentation. While each project has its unique challenges and learning curves, the journey through these technologies has been a gratifying part of my career growth.
+I’ve spent a lot of time building APIs that are simple to use and perform well. My work with GraphQL, gRPC, and OpenAPI has helped me design APIs that connect systems effectively and are easy to document and maintain.
 
 ## 🚀 Journey from JavaScript to TypeScript
 
-In the landscape of web development, I've had a rich journey that began with JavaScript. I've greatly enjoyed exploring the capabilities of Node.js and its C++ API. Watching JavaScript evolve from a mere scripting language into a platform capable of building robust server-side applications has been truly intriguing.
+I started web development with JavaScript and explored Node.js and its C++ API early on. Over time, as projects got bigger, I saw the need for better structure and maintainability, which led me to TypeScript.  
 
-As my projects increased in complexity and scale, however, I recognized the limitations JavaScript posed for maintaining large codebases. This led to my switch to TypeScript, a decision not influenced solely by TypeScript's strong typing and enhanced scalability, but also by a concurrent shift in my frontend development preferences.
-
-In the past, I've worked extensively with BackboneJS, Angular 1.x (now known as AngularJS), and KnockoutJS. Each framework offered unique insights, shaping my understanding of frontend development. But with time, my preference solidified around Angular for its robustness and its harmonious synergy with TypeScript. This blend of TypeScript and Angular has equipped me to create more scalable, maintainable, and high-performing web applications.
+I’ve used frameworks like BackboneJS, AngularJS, and KnockoutJS in the past, but eventually settled on Angular with TypeScript for its balance of power and maintainability.
 
 ## ☁️ Managing Deployment and Infrastructure
 
-I have also gained valuable experience in managing application deployment and infrastructures. My proficiency in Docker, Kubernetes, Helm, Terraform, and KNative is the result of countless hours spent on refining cloud infrastructures to ensure seamless application deployments.
+I’ve also worked with Docker, Kubernetes, Helm, Terraform, and KNative to handle deployments and cloud infrastructure. These skills help me support the software I build and make sure it runs smoothly in production.
 
 ## 🛡️ Prioritizing Security
 
-I believe secure software is the foundation of any technology we build. Therefore, I've always prioritized mastering secure coding practices, penetration testing, and adhering to OWASP guidelines. Implementing robust authentication and access control mechanisms is something I've extensively worked on, exploring tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2.
+Security is always at the center of what I build. I follow secure coding practices, do penetration testing, and stick to OWASP guidelines. I’ve also worked with tools like Keycloak, LDAP, Active Directory, Firebase, OpenID Connect, and OAuth2 to implement authentication and access control.
 
 ## 🤖 Artificial Intelligence and Machine Learning
 
-Having [always](https://blog.brakmic.com/data-science-for-losers-part-4-machine-learning/) [been](https://blog.brakmic.com/data-science-for-losers-part-6-azure-ml/) [intrigued](https://blog.brakmic.com/data-science-for-losers-part-7-using-azure-ml/) by the potential of artificial intelligence (AI) and machine learning (ML), I've taken steps to integrate these cutting-edge technologies into my projects. My [explorations in this domain](https://github.com/brakmic/SKPlayground) have included working with OpenAI's GPT models, Hugging Face Transformers, and other open source Language Models. These experiences have provided me a solid grounding in the current state of NLP and ML frameworks, enabling me to leverage their capabilities in real-world projects.
+I’ve been exploring AI and ML through projects with [Semantic Kernel](https://github.com/brakmic/SKPlayground), OpenAI’s GPT models, Hugging Face Transformers, and other frameworks. These experiments have given me a solid understanding of current NLP and ML tools, and I’ve started applying them in real projects.
 
 ---
+
 ## 🎯 Future Goals
 
-As I look to the future, my goal is to deepen my understanding of scalable architectures and continue building resilient, efficient, and maintainable systems. It's the joy of learning new things and the thrill of overcoming challenges that drive me forward in this ever-evolving landscape of software engineering.
+Looking ahead, I want to keep learning about scalable architectures and keep building systems that are efficient, resilient, and easy to maintain. What keeps me motivated is learning new things and solving hard problems.
 
 ---
 
 ## 📖 Featured Articles
 
-I believe in the power of shared knowledge and experiences. My [blog](https://blog.brakmic.com) serves as a platform where I delve into new concepts, share my professional journey, and explore insights gained from my experiences:
+I like sharing what I learn. My [blog](https://blog.brakmic.com) is where I write about new ideas, projects I’ve worked on, and lessons I’ve learned:
 
 - [Intro to Semantic Kernel](https://blog.brakmic.com/intro-to-semantic-kernel-part-one/)
 - [Keycloak with PostgreSQL-HA](https://blog.brakmic.com/keycloak-with-postgresql-ha-on-kubernetes/)
@@ -104,4 +103,3 @@ I believe in the power of shared knowledge and experiences. My [blog](https://bl
 - 🌐 Visit my [personal website](https://brakmic.com)
 
 ---
-
