@@ -25,12 +25,6 @@ Hi, I'm Harris. I'm a software engineer who enjoys building useful and reliable 
 
 ---
 
-| ![brakmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=brakmic&show_icons=true&theme=radical&hide_rank=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brakmic&layout=compact&theme=radical&hide=html,css,scss,objective-c,freemarker&hide_title=true&langs_count=6) |
-|:---:|:---:|
-| GitHub Statistics | Top Languages |
-
----
-
 ## 💼 Experiences & Skills
 
 As a software engineer, I’ve spent years designing and building applications across different platforms and industries. Running my own company gave me the chance to lead projects, work with clients directly, and build software that solves real problems. I rely on approaches like Clean Architecture, Ports & Adapters, and Domain-Driven Design to make sure my systems stay maintainable and scalable.  
